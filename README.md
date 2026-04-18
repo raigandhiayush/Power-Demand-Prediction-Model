@@ -192,8 +192,8 @@ The search space was: `n_estimators` ∈ [100, 1000], `max_depth` ∈ [3, 10], `
 
 | Metric | Value |
 |---|---|
-| **MAPE** | ~2.89% |
-| **MAE** | reported in MW at runtime |
+| **MAPE** | ~2.91% |
+| **MAE** | 258.17 MW |
 
 A MAPE of ~2.89% means the model's hourly demand forecasts are off by less than 3% on average — strong performance for a short-term energy forecasting task.
 
